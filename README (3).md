@@ -3,7 +3,8 @@
 </p>
 <p align="center"><h1 align="center">MY_PORTFOLIO</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ chepkwonyportfolio.netlify.app/
+/code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/chepkwonychepchieng/my_portfolio style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
