@@ -1,15 +1,15 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
-<p align="center"><h1 align="center">MY_PORTFOLIO.GIT</h1></p>
+<p align="center"><h1 align="center">MY_PORTFOLIO</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/chepkwonychepchieng/my_portfolio.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/chepkwonychepchieng/my_portfolio.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/chepkwonychepchieng/my_portfolio.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/chepkwonychepchieng/my_portfolio.git?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/chepkwonychepchieng/my_portfolio style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/chepkwonychepchieng/my_portfolio style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/chepkwonychepchieng/my_portfolio style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/chepkwonychepchieng/my_portfolio style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -38,13 +38,28 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ This website is designed to provide a comprehensive overview of my experience as a Software Developer. It includes the following sections:
+
+* **Home:** A brief introduction and call-to-action buttons.
+* **About:** Information about my background and skills.
+* **Education & Experience:** A timeline of my educational and professional journey.
+* **Skills:** A visual representation of my proficiency in various technologies.
+* **Projects:** A showcase of my projects with links to live demos and code repositories.
+* **Contact:** A form to get in touch with me and links to my social media profiles
+</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>>* **Responsive Design:** The website is designed to be viewed on various screen sizes, including desktops, tablets, and mobile devices.
+* **Dark/Light Theme Toggle:** Users can switch between dark and light themes for better readability.
+* **Interactive Mobile Menu:** A mobile-friendly menu for easy navigation.
+* **Project Showcase:** Demonstrates my skills through real-world projects with links to their live and code repository.
+* **Contact Form:** Allows visitors to easily send me messages.
+* **CV Download:** Visitors can easily download my CV.
+* **Education and Experience Timeline:** A visual representation of my work and educational experience.
+</code>
 
 ---
 
@@ -63,23 +78,23 @@
 
 ###  Project Index
 <details open>
-	<summary><b><code>MY_PORTFOLIO.GIT/</code></b></summary>
+	<summary><b><code>MY_PORTFOLIO</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/chepkwonychepchieng/my_portfolio.git/blob/master/script.js'>script.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/chepkwonychepchieng/my_portfolio /blob/master/script.js'>script.js</a></b></td>
+            <td><code>❯ JavaScript file for interactive features (theme toggle, mobile menu, skill bar animation).</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/chepkwonychepchieng/my_portfolio.git/blob/master/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/chepkwonychepchieng/my_portfolio /blob/master/index.html'>index.html</a></b></td>
+            <td><code>❯ Main HTML file containing the structure and content of the portfolio website.</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/chepkwonychepchieng/my_portfolio.git/blob/master/styles.css'>styles.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
+				<td><b><a href='https://github.com/chepkwonychepchieng/my_portfolio /blob/master/styles.css'>styles.css</a></b></td>
+            <td><code>❯ CSS stylesheet for styling the website's layout, design, and responsiveness.</code></td>
+         </tr>
 			</table>
 		</blockquote>
 	</details>
@@ -90,25 +105,25 @@
 
 ###  Prerequisites
 
-Before getting started with my_portfolio.git, ensure your runtime environment meets the following requirements:
+Before getting started with my_portfolio , ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** JavaScript
 
 
 ###  Installation
 
-Install my_portfolio.git using one of the following methods:
+Install my_portfolio  using one of the following methods:
 
 **Build from source:**
 
-1. Clone the my_portfolio.git repository:
+1. Clone the my_portfolio  repository:
 ```sh
-❯ git clone https://github.com/chepkwonychepchieng/my_portfolio.git
+❯ git clone https://github.com/chepkwonychepchieng/my_portfolio 
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd my_portfolio.git
+❯ cd my_portfolio 
 ```
 
 3. Install the project dependencies:
@@ -136,9 +151,9 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/chepkwonychepchieng/my_portfolio.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/chepkwonychepchieng/my_portfolio.git/issues)**: Submit bugs found or log feature requests for the `my_portfolio.git` project.
-- **💡 [Submit Pull Requests](https://github.com/chepkwonychepchieng/my_portfolio.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/chepkwonychepchieng/my_portfolio /discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/chepkwonychepchieng/my_portfolio /issues)**: Submit bugs found or log feature requests for the `my_portfolio ` project.
+- **💡 [Submit Pull Requests](https://github.com/chepkwonychepchieng/my_portfolio /blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -146,7 +161,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/chepkwonychepchieng/my_portfolio.git
+   git clone https://github.com/chepkwonychepchieng/my_portfolio 
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -169,8 +184,8 @@ echo 'INSERT-TEST-COMMAND-HERE'
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/chepkwonychepchieng/my_portfolio.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=chepkwonychepchieng/my_portfolio.git">
+   <a href="https://github.com{/chepkwonychepchieng/my_portfolio /}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=chepkwonychepchieng/my_portfolio ">
    </a>
 </p>
 </details>
